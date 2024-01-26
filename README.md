@@ -1,4 +1,4 @@
-## JavaScript Network Mapper
+### JavaScript Network Mapper
 
 This was inspired by JSRecon, which can be found [here](http://www.andlabs.org/tools/jsrecon.html).
 
